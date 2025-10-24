@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'Hanae SBAI',
+                'Essaoud Oumaima',
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
               Text('Développeuse Flutter'),
@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
                 margin: EdgeInsets.all(10),
                 child: ListTile(
                   leading: Icon(Icons.email),
-                  title: Text('hanae@example.com'),
+                  title: Text('oumaima6lover@example.com'),
                 ),
               ),
               Card(
